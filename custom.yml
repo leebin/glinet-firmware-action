@@ -20,8 +20,6 @@ packages:
   - luci-app-unblockneteasemusic
   - luci-app-aliyundrive-webdav
   - luci-app-amlogic
-
-
 diffconfig: |
   CONFIG_PACKAGE_wpad-basic=n
   CONFIG_PACKAGE_wpad=n
