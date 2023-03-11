@@ -8,7 +8,18 @@ packages:
   - luci-app-mwan3
   - luci-app-aliyundrive-webdav
   - luci-app-clash
-
+  - luci-app-dnsfilter
+  - luci-app-openclash
+  - luci-app-advanced
+  - luci-app-aliddns
+  - luci-app-adguardhome
+  - luci-app-smartdns
+  - luci-app-passwall
+  - luci-app-mosdns
+  - luci-app-store
+  - luci-app-unblockneteasemusic
+  - luci-app-aliyundrive-webdav
+  - luci-app-amlogic
 
 
 diffconfig: |
